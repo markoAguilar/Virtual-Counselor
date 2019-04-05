@@ -2,6 +2,10 @@ what is life
 Life is an experience!
 what is your favorite color
 My favorite color is Blue!
+What are some useful CS Tools
+I recommend getting familiar with how to use GitHub and git. They facilitate maintaining and showcasing your work.
+Any other tips
+The Unix terminal or Windows command prompt are two things you should definitely learn. They increase programming workflow drastically.
 where is jamal's Office
 Jamal's office is in room
 where is the financial aid office
